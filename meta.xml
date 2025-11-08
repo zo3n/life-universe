@@ -1,0 +1,6 @@
+<meta>
+    <info author="ZoeN" />
+    <oop>true</oop>
+    <script src="CLife.lua" type="client" cache="false" />
+    <script src="client.lua" type="client" cache="false" />
+</meta>
